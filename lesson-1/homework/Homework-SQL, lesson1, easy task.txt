@@ -1,0 +1,26 @@
+	Easy
+
+    Define the following terms: data, database, relational database, and table.
+    List five key features of SQL Server.
+    What are the different authentication modes available when connecting to SQL Server? (Give at least 2)
+
+	1. Data is a collection of information. It's gathered by analysis. Data can be consist of numbers, facts, measures,
+	  names, figures, videos, photos, audios or even description of the things. 
+	  
+	  Database is a collection of structured information which is stored electronically in a computer system.
+
+	  Relational database is a structioned information organized into tables with rows and columns.
+
+	  Table is a database object that stores all data in a database.
+
+	2. Five key features of SQL Server:
+		Security
+		High availability
+		Perfomance
+		Intellegent query processing and query store
+		Data management and integration
+
+	3. SQL Server supports this main authentification modes for connecting to the server: 
+		- Windows Authentification
+		- SQL Server Authentication
+		- mixed mode Authenfication
